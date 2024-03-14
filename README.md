@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 写点鸡汤，每天打开的时候能喝两口。🥄
+🌱 每天进步一点点，生活会变得不一样。
+🤔 重要的不是选择了什么，而是如何让自己的选择变得正确。
