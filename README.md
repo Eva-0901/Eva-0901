@@ -1,4 +1,6 @@
-### Hi there 👋 ![OpenAI Logo](https://openai.com/favicon.ico "OpenAI Logo") <br>
+### Hi there 👋 
+
+![OpenAI Logo](https://openai.com/favicon.ico "OpenAI Logo") <br>
 
 <!--
 **Eva-0901/Eva-0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
